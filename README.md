@@ -1,4 +1,4 @@
-# ELC Coding Test
+# Simple autocomplete search bar 
 
 Simple auto-search feature inspired by [Mac Cosmetics](https://www.maccosmetics.com/esearch?form_id=perlgem_search_form&search=red) and [Estée Lauder](https://www.esteelauder.com/products/681/product-catalog/skin-care#).
 
