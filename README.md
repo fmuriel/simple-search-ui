@@ -38,11 +38,10 @@ If the commands above were to fail, the client could be runned by:
 
 This project was developed using Node.js, React.js and Styled Components.
 
-- I decided to redo the original project configuration due to several issues I was having with Babel, Webpack, gulp and other dependencies. Since this was a two-hours challenge, it seemed that trying to refactor such issues would take longer than I would've expected, so I decided to start from scratch with a simple create-react-app and setting up the server by myself.
 - I chose to switch from SaSS to Styled Components because I believe it provides a visual relief from having many divs and React components with classes, and because the scoping mindset if provides follows React's general arquitecture and cleanliness. To avoid confusion, I added the "ui" prefix to the Styled Components in order to differenciate them from React components.
 - Since this was a very small project, I decided to stay away from using tools such as Context API to abstract fetcher functions as the one that's on the helpers file, but in a medium scale I would've used it, and on a larger one, Redux.js.
 
 ## To Do List
 
-- Having more time in my hands, my first priority would've been testing using Jest.
-- I would've liked to implement at least PropTypes, and with more time, TypeScript.
+- Testing using Jest.
+- Implement at least PropTypes, and with more time, TypeScript.
